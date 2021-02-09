@@ -4,4 +4,4 @@
 An interactive Dashboard for monitoring sensor data.
 
 
-![Screenshot](sh.png)
+![Screenshot](Sensor-Analytics-Interactive-dashboard/README.md/sh.png)
