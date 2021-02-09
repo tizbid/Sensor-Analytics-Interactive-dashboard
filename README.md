@@ -4,4 +4,4 @@
 An interactive Dashboard for monitoring sensor data.
 
 
-![Screenshot](Sensor-Analytics-Interactive-dashboard/README.md/sh.png)
+![Screenshot](https://github.com/tizbid/Sensor-Analytics-Interactive-dashboard/blob/master/sh.PNG)
